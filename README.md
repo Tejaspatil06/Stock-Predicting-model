@@ -24,7 +24,7 @@ This project is a Stock Market Predictor web application built using Streamlit. 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Tejaspatil06/Stock_Predicting-model.git
+    https://github.com/Tejaspatil06/Stock-Predicting-model.git
     ```
 2. Navigate to the project directory:
     ```bash
