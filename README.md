@@ -28,7 +28,7 @@ This project is a Stock Market Predictor web application built using Streamlit. 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Stock_Predicting-model
+    cd Stock-Predicting-model
     ```
 3. Install the required packages:
     ```bash
