@@ -30,10 +30,6 @@ This project is a Stock Market Predictor web application built using Streamlit. 
     ```bash
     cd Stock-Predicting-model
     ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
